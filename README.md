@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 Praca inżynierska autorów: Perec Adrian, Sulenta Maciej, Szalast Kamil
+BEng Thesis developed by following students: Perec Adrian, Sulenta Maciej, Szalast Kamil
