@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Praca inżynierska autorów: Perec Adrian, Sulenta Maciej, Szalast Kamil
